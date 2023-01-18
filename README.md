@@ -1,3 +1,20 @@
+_______________________________________________________________________________________________________________
+Este README ainda esta esta em desenvolvimento, a maiorias das coisas nele precisam ser mudadas.
+
+
+
+As partes de Test deste projeto ainda seram alteradas e/ou removidas dado que não foram feitas por mim
+
+
+
+
+
+Eu irei focar em alterar os README's deste e de outros projetos apos terminar de postar todos no github e alterar os arquivos de test
+
+
+
+
+_______________________________________________________________________________________________________________
 ### Termos de acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe
